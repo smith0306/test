@@ -11,7 +11,7 @@ namespace Ns18
         // Start is called before the first frame update
         void Start()
         {
-
+            Debug.Log("No18");
         }
 
         // Update is called once per frame
