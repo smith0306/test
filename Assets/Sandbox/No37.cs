@@ -8,13 +8,9 @@ namespace Ns37
     {
         void Start()
         {
-
+            Debug.Log("No37");
         }
 
-        void Update()
-        {
-
-        }
     }
 
 }
