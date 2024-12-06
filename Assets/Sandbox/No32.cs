@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 namespace Ns32
@@ -9,7 +7,7 @@ namespace Ns32
         // Start is called before the first frame update
         void Start()
         {
-
+            Debug.Log("No32");
         }
 
         // Update is called once per frame
