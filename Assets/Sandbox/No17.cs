@@ -10,7 +10,6 @@ namespace Ns17
         {
             Debug.Log("No17");
         }
-
         // Update is called once per frame
         void Update()
         {
