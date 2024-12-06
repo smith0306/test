@@ -9,7 +9,7 @@ namespace Ns16
        // Start is called before the first frame update
        void Start()
        {
-        
+            Debug.Log("No16");
        }
 
        // Update is called once per frame
