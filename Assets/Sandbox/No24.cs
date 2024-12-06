@@ -9,7 +9,7 @@ namespace Ns24
         // Start is called before the first frame update
         void Start()
         {
-
+            Debug.Log("No24");
         }
 
         // Update is called once per frame
