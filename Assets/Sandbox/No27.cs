@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-namespace Ns27
+namespace No27
 {
     public class No27 : MonoBehaviour
     {
