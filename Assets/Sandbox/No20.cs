@@ -9,7 +9,7 @@ namespace Ns20
         // Start is called before the first frame update
         void Start()
         {
-
+            Debug.Log("No20");
         }
 
         // Update is called once per frame
